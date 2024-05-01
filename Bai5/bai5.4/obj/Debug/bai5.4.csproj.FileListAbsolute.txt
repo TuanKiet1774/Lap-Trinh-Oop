@@ -1,0 +1,10 @@
+D:\Lập Trình OOP\Bai5\bai5.4\bin\Debug\bai5.4.exe.config
+D:\Lập Trình OOP\Bai5\bai5.4\bin\Debug\bai5.4.exe
+D:\Lập Trình OOP\Bai5\bai5.4\bin\Debug\bai5.4.pdb
+D:\Lập Trình OOP\Bai5\bai5.4\obj\Debug\bai5.4.csproj.AssemblyReference.cache
+D:\Lập Trình OOP\Bai5\bai5.4\obj\Debug\bai5._4.Form1.resources
+D:\Lập Trình OOP\Bai5\bai5.4\obj\Debug\bai5._4.Properties.Resources.resources
+D:\Lập Trình OOP\Bai5\bai5.4\obj\Debug\bai5.4.csproj.GenerateResource.cache
+D:\Lập Trình OOP\Bai5\bai5.4\obj\Debug\bai5.4.csproj.CoreCompileInputs.cache
+D:\Lập Trình OOP\Bai5\bai5.4\obj\Debug\bai5.4.exe
+D:\Lập Trình OOP\Bai5\bai5.4\obj\Debug\bai5.4.pdb

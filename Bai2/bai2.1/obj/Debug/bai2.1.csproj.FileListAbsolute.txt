@@ -1,0 +1,7 @@
+D:\Lập Trình OOP\bai2.1\bin\Debug\bai2.1.exe.config
+D:\Lập Trình OOP\bai2.1\bin\Debug\bai2.1.exe
+D:\Lập Trình OOP\bai2.1\bin\Debug\bai2.1.pdb
+D:\Lập Trình OOP\bai2.1\obj\Debug\bai2.1.csproj.AssemblyReference.cache
+D:\Lập Trình OOP\bai2.1\obj\Debug\bai2.1.csproj.CoreCompileInputs.cache
+D:\Lập Trình OOP\bai2.1\obj\Debug\bai2.1.exe
+D:\Lập Trình OOP\bai2.1\obj\Debug\bai2.1.pdb
