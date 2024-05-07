@@ -1,0 +1,7 @@
+D:\Lập Trình OOP\NhanVien\obj\Debug\NhanVien.csproj.AssemblyReference.cache
+D:\Lập Trình OOP\NhanVien\obj\Debug\NhanVien.csproj.CoreCompileInputs.cache
+D:\Lập Trình OOP\NhanVien\bin\Debug\NhanVien.exe.config
+D:\Lập Trình OOP\NhanVien\bin\Debug\NhanVien.exe
+D:\Lập Trình OOP\NhanVien\bin\Debug\NhanVien.pdb
+D:\Lập Trình OOP\NhanVien\obj\Debug\NhanVien.exe
+D:\Lập Trình OOP\NhanVien\obj\Debug\NhanVien.pdb
