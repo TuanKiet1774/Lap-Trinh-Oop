@@ -1,0 +1,7 @@
+D:\Lập Trình OOP\BaiKiemTra2\bin\Debug\BaiKiemTra2.exe.config
+D:\Lập Trình OOP\BaiKiemTra2\bin\Debug\BaiKiemTra2.exe
+D:\Lập Trình OOP\BaiKiemTra2\bin\Debug\BaiKiemTra2.pdb
+D:\Lập Trình OOP\BaiKiemTra2\obj\Debug\BaiKiemTra2.csproj.AssemblyReference.cache
+D:\Lập Trình OOP\BaiKiemTra2\obj\Debug\BaiKiemTra2.csproj.CoreCompileInputs.cache
+D:\Lập Trình OOP\BaiKiemTra2\obj\Debug\BaiKiemTra2.exe
+D:\Lập Trình OOP\BaiKiemTra2\obj\Debug\BaiKiemTra2.pdb
