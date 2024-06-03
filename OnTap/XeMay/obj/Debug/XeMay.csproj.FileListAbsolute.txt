@@ -1,0 +1,7 @@
+D:\Lập Trình OOP\OnTap\XeMay\bin\Debug\XeMay.exe.config
+D:\Lập Trình OOP\OnTap\XeMay\bin\Debug\XeMay.exe
+D:\Lập Trình OOP\OnTap\XeMay\bin\Debug\XeMay.pdb
+D:\Lập Trình OOP\OnTap\XeMay\obj\Debug\XeMay.csproj.AssemblyReference.cache
+D:\Lập Trình OOP\OnTap\XeMay\obj\Debug\XeMay.csproj.CoreCompileInputs.cache
+D:\Lập Trình OOP\OnTap\XeMay\obj\Debug\XeMay.exe
+D:\Lập Trình OOP\OnTap\XeMay\obj\Debug\XeMay.pdb
