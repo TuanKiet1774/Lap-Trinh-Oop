@@ -136,7 +136,7 @@ namespace XeOto
     {
         static void Main(string[] args)
         {
-            //Nhập thông tin n xe máy vào một danh sách
+            //Nhập thông tin n xe vào một danh sách
             Console.Write("So luong xe: ");
             int n = int.Parse(Console.ReadLine());
 
@@ -173,7 +173,7 @@ namespace XeOto
                 ds[i].Xuat();
             }
 
-            //Liệt kê các xe hết thời hạn bảo hành. 
+            //Liệt kê các xe hết thời hạn lưu hành. 
             Console.WriteLine("\nDanh sach xe het thoi han luu hanh: ");
             for (int i = 0; i < n; i++)
             {
